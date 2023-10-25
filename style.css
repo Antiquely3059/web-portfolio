@@ -32,7 +32,7 @@ footer {
 
 
 .card {
-  width: 45%;
+  width: 55%;
   clear: right;
 }
 
@@ -61,11 +61,5 @@ footer {
     text-align: justify;
   }
 
-  .card img {
-    margin-bottom: 10px;
-    width: 100%;
-    display: inline;
-    object-fit: cover;
-  }
 }
 
