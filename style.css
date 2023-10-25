@@ -14,6 +14,14 @@ h1 {
   font-size: 5rem;
 }
 
+.h1box {
+  float: left;
+}
+
+.imgmy {
+  float: right;
+}
+
 footer {
   text-align: right;
   color: midnightblue;
@@ -27,6 +35,7 @@ footer {
 
 .card {
   width: 45%;
+  clear: right;
 }
 
 .left {
@@ -64,7 +73,4 @@ footer {
     display: inline;
     object-fit: cover;
   }
-}
-.imgmy {
-  border-radius: 50%;
 }
